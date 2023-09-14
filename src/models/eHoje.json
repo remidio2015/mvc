@@ -1,8 +1,32 @@
 [
     {
-"nome": "Luis Claudio",
-"Endereco":, 
-"tipo sanguinio",
+        "Doadores"
+        Nome:"" ,
+
+        "Nome": "",
+        "Sobrenome":"" ,
+        "Nome Completo":"",
+        "Idioma": 
+
+        Endereço: 
+        "Logradouro" : ,
+        "Número":"" , 
+        "Bairro":"" ,
+        "CEP":"" , 
+        "ESTADO": "",
+        "PAÍS": "",
+        "UF":"", 
+
+        
+        Contato:""
+        "Telefone": ,
+        "Celular": ,
+
+        Email:
+        "Email¹":,
+        "Email²":,
+
+        
 
     }
 ]
