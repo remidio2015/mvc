@@ -1,7 +1,9 @@
 import app from './src/app.js';
 
-const port = 4000;
+const port = 8080;
 
 app.listen(port, () => {
-    console.log(`servidor está rodando na porta ${port}`)
+    console.log(`Servidor esta Rodando na porta ${port}`)
 })
+
+
