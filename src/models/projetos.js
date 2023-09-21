@@ -4,7 +4,7 @@ const projetoSchema = new mongoose.Schema(
     {
         nome: {type: String, required: true},
         telefones: { type: Array, required: true},
-        endereco: { type: Object, required: true}
+        endereco: { type: Object, required: true},
     }
 )
 
